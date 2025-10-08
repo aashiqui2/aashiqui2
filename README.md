@@ -80,11 +80,9 @@
 > ― ***Alphonse Elric***
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashiqui2&layout=compact)
-### ⏱️ Weekly Coding Stats (via WakaTime)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashiqui2&layout=compact&theme=tokyonight&count_private=true)
 
-[![Aashiq’s WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=92d502b8-82cf-4374-9ef2-8ee9277990dd&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
+
   <img src="https://komarev.com/ghpvc/?username=aashiqui2&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 <div align="center">
